@@ -1,0 +1,1 @@
+export type PixKeyType = 'cpf' | 'phone' | 'email' | 'random';
